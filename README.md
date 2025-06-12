@@ -1,19 +1,14 @@
-<p align="center">
-  <a href="http://www.theunwindai.com">
-    <img src="docs/banner/unwind_black.png" width="900px" alt="Unwind AI">
-  </a>
-</p>
+# 🛞 Real World LLM Agents
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shubhamsaboo/">
-    <img src="https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/Saboo_Shubham_">
-    <img src="https://img.shields.io/twitter/follow/Shubham_Saboo" alt="Twitter">
-  </a>
-</p>
+A growing collection of **LLM agents that actually run, adapt, and help you build.**  
+This repo focuses on simplified, useful agent workflows. Clear structure, real examples and setups you can use or extend.
 
-<hr/>
+It started as a fork of the original [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) by [@Shubhamsaboo](https://www.linkedin.com/in/shubhamsaboo/), created with the [Unwind AI](http://www.theunwindai.com) team.
+
+Everything below this line belongs to that original version and has not been modified.  
+You can explore their repo directly [here](https://github.com/Shubhamsaboo/awesome-llm-apps).
+
+---
 
 # 🌟 Awesome LLM Apps
 
@@ -170,3 +165,20 @@ Contributions are welcome! If you have any ideas, improvements, or new apps to a
 [![Star History Chart](https://api.star-history.com/svg?repos=Shubhamsaboo/awesome-llm-apps&type=Date)](https://star-history.com/#Shubhamsaboo/awesome-llm-apps&Date)
 
 🌟 **Don’t miss out on future updates! Star the repo now and be the first to know about new and exciting LLM apps with RAG and AI Agents.**
+
+<p align="center">
+  <a href="http://www.theunwindai.com">
+    <img src="docs/banner/unwind_black.png" width="900px" alt="Unwind AI">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubhamsaboo/">
+    <img src="https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/Saboo_Shubham_">
+    <img src="https://img.shields.io/twitter/follow/Shubham_Saboo" alt="Twitter">
+  </a>
+</p>
+
+<hr/>
