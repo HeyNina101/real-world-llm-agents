@@ -1,0 +1,9 @@
+openai>=1.2.0
+fastapi
+uvicorn[standard]
+python-dotenv
+loguru
+anthropic>=0.54.0
+pydantic>=2.0
+pydantic-settings>=2.0
+
